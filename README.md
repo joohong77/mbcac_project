@@ -1,4 +1,17 @@
 # mbcac_team
+## Windows에서 자격증명 확인 / github 관련 자격증명 삭제
+## github.com 회원가입
+## github 사이트에서 Repository 생성
+* Repository 주소 복사
+## git 다운로드/설치
+* user.name / user.email 등록
+* cmd > git config --list : 등록된 항목 확인
+
+
+
+
+
+------------------------------------------------------------------------
 
 ## 팀 프로젝트 안내
 * 주제: 열심히 하자
@@ -10,7 +23,6 @@
     - 2주: 게시판
     - 3주: 뉴스  
 <a name="top"></a>
-
 ## 목차
 1. [code1](#code1)    
 2. [code2](#code2)  
