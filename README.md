@@ -26,5 +26,4 @@
 {"added":${added}}
 ```
 
-<span style="color:#d3d3d3">#d3d3d3</span>
-
+$\color{#ff0000}{/textsf{색상 설정}}$
