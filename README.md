@@ -10,13 +10,14 @@
     - 2주: 게시판
     - 3주: 뉴스  
 <a name="top"></a>
+
 # 목차
-- <a name="code1">code1</a>
-- <a name="code2">code2</a>
-- <a name="code3">code3</a>
-- <a name="code4">code4</a>
-- <a name="code5">code5</a>
-- <a name="code6">code6</a>
+1. [code1(#code1)    
+2. [code2](#code2)  
+3. [code3](#code3)  
+4. [code4](#code4)  
+5. [code5](#code5)  
+6. [code6](#code6)  
 
 
 ## 아래의 코드를 참고하세요
@@ -39,7 +40,7 @@
 $\color{#ff0000}{\textsf{색상 설정}}$
 <P>
 	
-<a name="code1">code1</a> [go to top](#code1)
+<a name="code1">code1</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -55,7 +56,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 
-<a name="code2">code2</a> [go to top](#code2)
+<a name="code2">code2</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -71,7 +72,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 
-<a name="code3">code3</a> [go to top](#code3)
+<a name="code3">code3</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -87,7 +88,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 
-<a name="code4">code4</a> [go to top](#code4)
+<a name="code4">code4</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -103,7 +104,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 
-<a name="code5">code5</a> [go to top](#code5)
+<a name="code5">code5</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -119,7 +120,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 
-<a name="code6">code6</a> [go to top](#code6)
+<a name="code6">code6</a> [go to top](#top)
 ```jsp 
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
